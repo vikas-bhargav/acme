@@ -41,4 +41,6 @@ Acme Inc. is creating a recipe management application where users can create and
 * Remove Ingredient From Recipe
   <img width="1476" alt="RemoveIngrediantaFromRecipe" src="https://github.com/user-attachments/assets/d0776d01-3fde-4a12-8dfd-e07186cfb1ec">
 
+* Auth
+<img width="1443" alt="token" src="https://github.com/user-attachments/assets/f610f4d5-90e9-4563-b48d-2699f7a28a41">
 
